@@ -1,0 +1,11 @@
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+dist
+node_modules
+.vscode

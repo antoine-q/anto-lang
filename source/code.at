@@ -1,0 +1,5 @@
+affiche "Hi everyone"
+affiche "this is my custom programming language"
+affiche "it is written with french keywords"
+valeur name = "antoine"
+affiche name
